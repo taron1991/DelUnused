@@ -5,3 +5,4 @@ zerlya
 2
 4
 push
+pull
